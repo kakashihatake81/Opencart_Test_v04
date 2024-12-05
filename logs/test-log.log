@@ -1,0 +1,38 @@
+2024-11-27 10:16:26 [main] INFO  testCases.TC_048_AccountRegTest - *****Starting TC048_account_registration_test****
+2024-11-27 10:16:26 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on my account
+2024-11-27 10:16:27 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on register
+2024-11-27 10:16:27 [main] INFO  testCases.TC_048_AccountRegTest - Filling user info 
+2024-11-27 10:16:28 [main] INFO  testCases.TC_048_AccountRegTest - validating confirmation message
+2024-11-27 10:16:28 [main] INFO  testCases.TC_048_AccountRegTest - *****Finished TC048_account_registration_test****
+2024-11-27 10:17:09 [main] INFO  testCases.TC_048_AccountRegTest - *****Starting TC048_account_registration_test****
+2024-11-27 10:17:09 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on my account
+2024-11-27 10:17:10 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on register
+2024-11-27 10:17:10 [main] INFO  testCases.TC_048_AccountRegTest - Filling user info 
+2024-11-27 10:17:11 [main] INFO  testCases.TC_048_AccountRegTest - validating confirmation message
+2024-11-27 10:17:11 [main] INFO  testCases.TC_048_AccountRegTest - *****Finished TC048_account_registration_test****
+2024-11-27 11:11:36 [main] INFO  testCases.TC_048_AccountRegTest - *****Starting TC048_account_registration_test****
+2024-11-27 11:11:36 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on my account
+2024-11-27 11:11:37 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on register
+2024-11-27 11:11:37 [main] INFO  testCases.TC_048_AccountRegTest - Filling user info 
+2024-11-27 11:11:38 [main] INFO  testCases.TC_048_AccountRegTest - validating confirmation message
+2024-11-27 11:11:39 [main] INFO  testCases.TC_048_AccountRegTest - *****Finished TC048_account_registration_test****
+2024-11-27 11:12:41 [main] INFO  testCases.TC_048_AccountRegTest - *****Starting TC048_account_registration_test****
+2024-11-27 11:12:41 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on my account
+2024-11-27 11:12:41 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on register
+2024-11-27 11:12:41 [main] INFO  testCases.TC_048_AccountRegTest - Filling user info 
+2024-11-27 11:12:42 [main] INFO  testCases.TC_048_AccountRegTest - validating confirmation message
+2024-11-27 11:12:43 [main] INFO  testCases.TC_048_AccountRegTest - *****Finished TC048_account_registration_test****
+2024-11-27 11:13:18 [main] INFO  testCases.TC_048_AccountRegTest - *****Starting TC048_account_registration_test****
+2024-11-27 11:13:18 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on my account
+2024-11-27 11:13:19 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on register
+2024-11-27 11:13:19 [main] INFO  testCases.TC_048_AccountRegTest - Filling user info 
+2024-11-27 11:13:20 [main] INFO  testCases.TC_048_AccountRegTest - validating confirmation message
+2024-11-27 11:13:21 [main] INFO  testCases.TC_048_AccountRegTest - *****Finished TC048_account_registration_test****
+2024-11-27 11:14:10 [main] INFO  testCases.TC_048_AccountRegTest - *****Starting TC048_account_registration_test****
+2024-11-27 11:14:10 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on my account
+2024-11-27 11:14:11 [main] INFO  testCases.TC_048_AccountRegTest - Clicked on register
+2024-11-27 11:14:11 [main] INFO  testCases.TC_048_AccountRegTest - Filling user info 
+2024-11-27 11:14:12 [main] INFO  testCases.TC_048_AccountRegTest - validating confirmation message
+2024-11-27 11:14:12 [main] INFO  testCases.TC_048_AccountRegTest - *****Finished TC048_account_registration_test****
+2024-11-27 11:14:15 [main] INFO  testCases.TC_062_LoginTest - *****Starting TC_062_loginTest***
+2024-11-27 11:14:17 [main] INFO  testCases.TC_062_LoginTest - *****Finished TC_062_loginTest***
